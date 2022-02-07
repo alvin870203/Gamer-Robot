@@ -3,6 +3,7 @@
 
 ## Demo Video
 
+https://user-images.githubusercontent.com/57071722/152855695-99cc6d42-2a28-4f54-8f12-5cf0a8739fbf.mp4
 
 ## Goal:
 We propose a Gamer Robot that can play Pikaliya chess with humans. The rule of Pikaliya chess is a combination of Tic-Tac-Toe and Gomoku. Generally, two players are required. However, with Gamer Robot, even a single person can play.
